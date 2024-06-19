@@ -1,0 +1,25 @@
+#DESIGN AND DEVELOPMENT OF 5KW MODULAR GRID CONNECTED CONVERTER
+The primary objective of this project is to develop and implement a state-of-the-art
+5KW modular grid-connected converter with the goal of revolutionizing energy conver-
+sion systems for increased adaptability and efficiency. In a grid-connected environment,
+the converter’s function is to control source power, making it compatible with a range
+of load requirements. The converter’s modular design offers a scalable and adaptable
+method that enables easy integration into a range of power systems. Because of its
+versatility and 5KW capacity, it can be used in both residential and commercial envi-
+ronments. The focus on modularity makes it simple to expand or reconfigure to meet
+changing energy requirements.
+This project report addresses the imperative control objectives of a three-phase
+(3Phase) active front end (AFE) converter, aiming to achieve enhanced performance
+in line with IEEE standards. The identified control objectives include maintaining a
+low value for line current Total Harmonic Distortion (THD) at the AC side (THDi less
+than or equal to 5 Percentage), ensuring in-phase operation of AC side voltages and
+currents, and achieving superior regulation of the DC link voltage.
+In energy processing, pulse width modulation (PWM) techniques are essential for
+producing accurate gate signals for power semiconductor devices. This guarantees the
+best possible power conversion efficiency and performance. This project pushes the
+limits of innovation in energy conversion technology by building upon a wealth of
+research in semiconductor devices, converter topologies, PWM techniques, and con-
+trollers. With its ability to handle the dynamic challenges of modern power systems
+and its contribution to the ongoing evolution of smart grids and renewable energy in-
+tegration, the 5KW modular grid-connected converter is a significant milestone in the
+search for sustainable and flexible energy solutions
